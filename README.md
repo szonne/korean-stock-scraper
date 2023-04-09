@@ -1,1 +1,4 @@
 # korean-stock-scraper
+
+### Dependencies
+
