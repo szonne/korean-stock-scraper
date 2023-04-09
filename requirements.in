@@ -4,3 +4,4 @@ pandas
 tqdm
 black
 pre-commit
+openpyxl
