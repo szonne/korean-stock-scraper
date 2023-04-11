@@ -25,7 +25,6 @@ if __name__ == "__main__":
 
     start_year = int(input("데이터 수집 시작년도를 입력하세요(ex. 2018) : "))
     end_year = 2023
-
     http_inst = Http(api_key=api_key)
 
     default_params = {
