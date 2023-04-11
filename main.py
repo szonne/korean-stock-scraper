@@ -55,7 +55,6 @@ if __name__ == "__main__":
             }
 
             data_container = []
-
             res = requests.get(BASE_URL + "fnlttSinglAcntAll.json", params=params)
 
             # status 000 = success
