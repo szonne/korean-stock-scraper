@@ -46,7 +46,6 @@ ACCOUNT_INFO = {
         'ifrs_Assets': '자산총계',
         'ifrs_Equity': '자본총계',
     },
-
 }
 
 REPORT_CODES = [

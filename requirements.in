@@ -5,3 +5,5 @@ tqdm
 black
 pre-commit
 openpyxl
+xmltodict
+bs4
