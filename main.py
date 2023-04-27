@@ -88,6 +88,7 @@ if __name__ == "__main__":
                         value = 0
                     else:
                         value = target_data["thstrm_amount"]
+
                         if value == "":
                             value = 0
                         else:
